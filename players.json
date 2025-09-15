@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "name": "LeBron James",
+        "team": "Los Angeles Lakers",
+        "position": "Forward",
+        "height": "6'9\"",
+        "weight": 250,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/a/a5/LeBron_James_2019.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Stephen Curry",
+        "team": "Golden State Warriors",
+        "position": "Guard",
+        "height": "6'2\"",
+        "weight": 185,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Stephen_Curry_2019.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Kevin Durant",
+        "team": "Brooklyn Nets",
+        "position": "Forward",
+        "height": "6'10\"",
+        "weight": 240,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Kevin_Durant_2018.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Giannis Antetokounmpo",
+        "team": "Milwaukee Bucks",
+        "position": "Forward",
+        "height": "7'0\"",
+        "weight": 242,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Giannis_Antetokounmpo_2019.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Kawhi Leonard",
+        "team": "Los Angeles Clippers",
+        "position": "Forward",
+        "height": "6'7\"",
+        "weight": 225,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Kawhi_Leonard_2019.jpg"
+    },
+    {
+        "id": 6,
+        "name": "James Harden",
+        "team": "Brooklyn Nets",
+        "position": "Guard",
+        "height": "6'5\"",
+        "weight": 220,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/4/4f/James_Harden_2019.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Anthony Davis",
+        "team": "Los Angeles Lakers",
+        "position": "Forward-Center",
+        "height": "6'10\"",
+        "weight": 253,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Anthony_Davis_2019.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Luka Dončić",
+        "team": "Dallas Mavericks",
+        "position": "Guard-Forward",
+        "height": "6'7\"",
+        "weight": 230,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Luka_Doncic_2019.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Nikola Jokić",
+        "team": "Denver Nuggets",
+        "position": "Center",
+        "height": "6'11\"",
+        "weight": 284,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Nikola_Jokic_2021.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Joel Embiid",
+        "team": "Philadelphia 76ers",
+        "position": "Center",
+        "height": "7'0\"",
+        "weight": 280,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Joel_Embiid_2019.jpg"
+    }
+]
